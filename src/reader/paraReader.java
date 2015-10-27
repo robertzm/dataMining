@@ -26,13 +26,20 @@ public class paraReader {
     @Parameter(names = {"-d", "-delimiter"}, description = "Delimiter symbol in input file")
     public String deli;
 
-    @Parameter(names = {"-p", "-posit"}, description = "Position of the class labels")
-    public int classPosi = 0;
-
-    @Parameter(names = {"-f", "-features"}, description = "The features number")
-    public int features = 43;
-
     @Parameter(names = {"-k"}, description = "The clusters number")
     public int clusterNum = 3;
+
+    @Parameter(names = {"-sr"}, description = "The clusters number range start point")
+    public int startRange = 3;
+
+    @Parameter(names = {"-er"}, description = "The clusters number range end point")
+    public int endRange = 3;
+
+    @Parameter(names = {"-iter"}, description = "The iteration for each clusters number")
+    public int iter = 100;
+
+    @Parameter(names = {"-m"}, description = "The maximum iteration to find centroid")
+    public int maxIter = 100;
+
 
 }

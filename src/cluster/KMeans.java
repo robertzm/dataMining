@@ -18,6 +18,7 @@ public class KMeans extends clustering {
     public ArrayList<cluster> centers;
     public instances insts;
     public int itera;
+    public double sqDistSum;
 
 
     public KMeans (int k, instances insts) {
@@ -27,6 +28,7 @@ public class KMeans extends clustering {
         this.centers = new ArrayList<>();
         this.itera = 0;
         this.insts = insts;
+        this.sqDistSum = 0;
 
         Random rand = new Random();
 
@@ -49,6 +51,7 @@ public class KMeans extends clustering {
         while(updated){
             this.itera++;
             this.insts.trnRst.clear();
+            this.sqDistSum = 0;
             for(cluster c: this.centers){
                 c.clear();
             }
@@ -57,7 +60,7 @@ public class KMeans extends clustering {
                 double min = Double.MAX_VALUE;
                 int minIndex = 0;
                 for (int i = 0; i < this.K; i++){
-                    double tmp = inst.distance(this.centers.get(i).center);
+                    double tmp = inst.sqDist(this.centers.get(i).center);
                     if(tmp < min){
                         min = tmp;
                         minIndex = i;
@@ -65,6 +68,7 @@ public class KMeans extends clustering {
                 }
                 this.centers.get(minIndex).addPoint(inst);
                 this.insts.trnRst.add(new Double(minIndex));
+                this.sqDistSum += min;
             }
             for (cluster c: this.centers){
                 c.update();

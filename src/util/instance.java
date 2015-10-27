@@ -14,7 +14,7 @@ public class instance {
         inst = new double[n];
     }
 
-    public double distance(instance center){
+    public double sqDist(instance center){
         double rst = 0;
         if(this.inst.length != center.inst.length){
             System.out.println("ERROR: instance length not match");
@@ -23,7 +23,7 @@ public class instance {
         for(int i = 0; i < this.inst.length; i ++){
             rst += Math.pow((this.inst[i] - center.inst[i]), 2);
         }
-        return Math.sqrt(rst);
+        return rst;
     }
 
 }
