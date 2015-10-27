@@ -20,7 +20,9 @@ public class instances {
 
     private ArrayList<feature> features;
 
-    public ArrayList<double[]> insts;
+    public ArrayList<instance> insts;
+    public ArrayList<Double> trnRst;
+
     public int numInsts;
 
     public instances(){
@@ -32,6 +34,14 @@ public class instances {
         this.des = "";
         this.features = new ArrayList<>();
         this.insts = new ArrayList<>();
+        this.trnRst = new ArrayList<>();
+    }
+
+    public boolean isAllNumeric(){
+        for(feature f: this.features){
+            if(f.isNominal()) return false;
+        }
+        return true;
     }
 
     public void addFeatures(featureType ft, String des){
@@ -41,7 +51,9 @@ public class instances {
 
     public void addFeatures(featureType ft, String des, String c){
         this.features.add(new feature(this.numFeatures, featureType.NOMINAL, des));
-        c = c.replace(" ", "").substring(1, c.length()-1);
+        c = c.replace(" ", "");
+        c = c.substring(1, c.length()-1);
+
         String[] stmp = c.split(",");
         double indicator = (double) feature2Double.size();
         for(String s: stmp){
@@ -50,6 +62,7 @@ public class instances {
                 feature2Double.put(tmp, indicator);
                 double2Feature.put(indicator, s);
                 this.features.get(this.numFeatures).addNominalFeature(indicator);
+                indicator ++;
             }
         }
         this.numFeatures++;

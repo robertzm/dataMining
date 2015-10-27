@@ -1,6 +1,7 @@
 package reader;
 
 import util.featureType;
+import util.instance;
 import util.instances;
 
 import java.io.*;
@@ -78,9 +79,9 @@ public class arffReader extends BufferedReader {
         }
     }
 
-    private ArrayList<double[]> readInst() throws IOException {
+    private ArrayList<instance> readInst() throws IOException {
         String line;
-        ArrayList<double[]> rst = new ArrayList<>();
+        ArrayList<instance> rst = new ArrayList<>();
         double indicator = (double) this.insts.feature2Double.size();
 
         while((line = readLine()) != null){
@@ -88,23 +89,21 @@ public class arffReader extends BufferedReader {
             String[] items = line.split(delimiter);
 
             int i = 0;
-            double[] instTemp = new double[this.insts.getNumFeatures()];
+            instance instTemp = new instance(this.insts.getNumFeatures());
             for (String item : items) {
                 if(this.insts.isNumeric(i)){
-                    instTemp[i] = Double.parseDouble(item);
+                    instTemp.inst[i] = Double.parseDouble(item);
                 }else if(this.insts.isNominal(i)){
                     String sTmp = i + ":" + item;
                     if(this.insts.feature2Double.containsKey(sTmp)){
-                        instTemp[i] = this.insts.feature2Double.get(sTmp);
+                        instTemp.inst[i] = this.insts.feature2Double.get(sTmp);
                     }else{
                         this.insts.feature2Double.put(sTmp, indicator);
                         this.insts.double2Feature.put(indicator, item);
                         this.insts.getFeatures().get(i).addNominalFeature(indicator);
-                        instTemp[i] = indicator;
+                        instTemp.inst[i] = indicator;
                         indicator++;
-
                     }
-
                 }
                 i++;
             }
@@ -113,6 +112,4 @@ public class arffReader extends BufferedReader {
         }
         return rst;
     }
-
-
 }

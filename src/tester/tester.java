@@ -1,5 +1,6 @@
 package tester;
 
+import cluster.KMeans;
 import com.beust.jcommander.JCommander;
 import reader.arffReader;
 import reader.paraReader;
@@ -17,7 +18,7 @@ import java.io.IOException;
 public class tester {
     public static void main(String[] args) throws IOException {
         paraReader jct = new paraReader();
-        String[] argv1 = {"-i", "dat/baskball.arff"};
+        String[] argv1 = {"-i", "dat/baskball.arff", "-k", "2"};
         new JCommander(jct, argv1);
 
         instances insts = new instances();
@@ -26,5 +27,12 @@ public class tester {
         rdr.readTrnInst();
         rdr.close();
 
+        if(insts.isAllNumeric()){
+            KMeans km = new KMeans(jct.clusterNum, insts);
+            km.train();
+        }else{
+            System.out.println("ERROR: not all features numerical");
+            System.exit(0);
+        }
     }
 }

@@ -8,4 +8,13 @@ package cluster;
  * @Description
  */
 public class clustering {
+    private String cluster;
+
+    public String getCluster() {
+        return cluster;
+    }
+
+    public void setCluster(String cluster) {
+        this.cluster = cluster;
+    }
 }
