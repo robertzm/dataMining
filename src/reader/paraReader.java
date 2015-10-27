@@ -12,8 +12,10 @@ import java.util.Map;
  * Created by robertmeng on 10/21/15.
  *
  * @Author robertzm
+ * @mailto zibo.meng@emory.edu
  * @Description
  */
+
 public class paraReader {
     @Parameter(names = {"-i", "-indir"}, description = "Input file directory")
     public String inDir;
