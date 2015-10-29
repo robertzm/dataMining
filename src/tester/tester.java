@@ -19,7 +19,7 @@ import java.util.ArrayList;
 public class tester {
     public static void main(String[] args) throws IOException {
         paraReader jct = new paraReader();
-        String[] argv1 = {"-i", "dat/baskball.arff", "-sr", "2", "-er", "10", "-iter", "100"};
+        String[] argv1 = {"-i", "dat/baskball.arff", "-sr", "2", "-er", "30", "-iter", "100"};
         new JCommander(jct, argv1);
 
         instances insts = new instances();
