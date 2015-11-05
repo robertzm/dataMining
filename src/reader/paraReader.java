@@ -1,6 +1,7 @@
 package reader;
 
 import com.beust.jcommander.DynamicParameter;
+import com.beust.jcommander.IStringConverter;
 import com.beust.jcommander.Parameter;
 import com.beust.jcommander.internal.Lists;
 
@@ -41,5 +42,8 @@ public class paraReader {
     @Parameter(names = {"-m"}, description = "The maximum iteration to find centroid")
     public int maxIter = 100;
 
-
+    @Parameter(names = {"-n"}, description = "Normalization or not")
+    public int norm = 0;
 }
+
+
