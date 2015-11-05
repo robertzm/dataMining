@@ -8,4 +8,7 @@ package filter;
  * @Description
  */
 public class Normalization {
+    public static double norm(double val, double min, double max, double newMin, double newMax){
+        return (val - min) * (newMax - newMin) / (max - min) + newMin;
+    }
 }
