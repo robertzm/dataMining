@@ -1,0 +1,414 @@
+The best 2 clusters: (SSE =   7199.283	BSS =    229.929 ) 
+The 0th centroid:
+Final points number in this cluster: 49     0.150   190.020    18.529    27.429     0.365
+The 1th centroid:
+Final points number in this cluster: 47     0.173   189.723    33.676    28.064     0.478
+
+The best 3 clusters: (SSE =   5402.486	BSS =    694.961 ) 
+The 0th centroid:
+Final points number in this cluster: 34     0.133   195.088    31.825    28.706     0.480
+The 1th centroid:
+Final points number in this cluster: 20     0.227   182.800    33.582    27.550     0.430
+The 2th centroid:
+Final points number in this cluster: 42     0.153   189.024    17.547    27.048     0.367
+
+The best 4 clusters: (SSE =   4181.522	BSS =   1556.811 ) 
+The 0th centroid:
+Final points number in this cluster: 27     0.133   194.852    33.745    28.444     0.514
+The 1th centroid:
+Final points number in this cluster: 16     0.172   183.438    14.949    27.688     0.344
+The 2th centroid:
+Final points number in this cluster: 32     0.135   193.469    20.133    27.313     0.377
+The 3th centroid:
+Final points number in this cluster: 21     0.229   182.905    33.148    27.524     0.424
+
+The best 5 clusters: (SSE =   3465.619	BSS =   4484.684 ) 
+The 0th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 1th centroid:
+Final points number in this cluster: 19     0.228   184.789    33.037    27.368     0.431
+The 2th centroid:
+Final points number in this cluster: 32     0.135   193.469    20.133    27.313     0.377
+The 3th centroid:
+Final points number in this cluster: 27     0.133   194.852    33.745    28.444     0.514
+The 4th centroid:
+Final points number in this cluster: 16     0.172   183.438    14.949    27.688     0.344
+
+The best 6 clusters: (SSE =   2967.329	BSS =   6541.782 ) 
+The 0th centroid:
+Final points number in this cluster: 27     0.133   194.852    33.745    28.444     0.514
+The 1th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 2th centroid:
+Final points number in this cluster: 27     0.145   193.111    21.713    26.741     0.385
+The 3th centroid:
+Final points number in this cluster: 12     0.178   182.167    15.054    25.583     0.356
+The 4th centroid:
+Final points number in this cluster: 10     0.130   191.100    14.101    31.500     0.321
+The 5th centroid:
+Final points number in this cluster: 18     0.227   184.778    33.514    27.389     0.438
+
+The best 7 clusters: (SSE =   2493.706	BSS =   8740.670 ) 
+The 0th centroid:
+Final points number in this cluster: 16     0.131   194.000    28.201    30.063     0.450
+The 1th centroid:
+Final points number in this cluster: 16     0.136   195.938    36.437    27.750     0.532
+The 2th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 3th centroid:
+Final points number in this cluster: 23     0.138   193.043    20.190    25.522     0.393
+The 4th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 5th centroid:
+Final points number in this cluster: 12     0.178   182.167    15.054    25.583     0.356
+The 6th centroid:
+Final points number in this cluster: 19     0.228   184.789    33.037    27.368     0.431
+
+The best 8 clusters: (SSE =   2206.358	BSS =  10323.950 ) 
+The 0th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 1th centroid:
+Final points number in this cluster: 21     0.138   195.286    35.275    27.810     0.521
+The 2th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 3th centroid:
+Final points number in this cluster: 19     0.128   193.158    19.717    24.895     0.399
+The 4th centroid:
+Final points number in this cluster: 13     0.235   184.615    35.325    28.000     0.455
+The 5th centroid:
+Final points number in this cluster: 12     0.178   182.167    15.054    25.583     0.356
+The 6th centroid:
+Final points number in this cluster: 10     0.203   186.900    27.224    26.800     0.390
+The 7th centroid:
+Final points number in this cluster: 11     0.125   195.455    25.402    31.182     0.421
+
+The best 9 clusters: (SSE =   1969.861	BSS =  13227.990 ) 
+The 0th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 1th centroid:
+Final points number in this cluster: 11     0.128   198.273    35.684    26.818     0.545
+The 2th centroid:
+Final points number in this cluster: 11     0.125   195.455    25.402    31.182     0.421
+The 3th centroid:
+Final points number in this cluster: 13     0.108   194.615    18.797    24.692     0.403
+The 4th centroid:
+Final points number in this cluster: 14     0.151   191.286    33.728    28.786     0.478
+The 5th centroid:
+Final points number in this cluster: 13     0.239   184.385    34.954    27.462     0.458
+The 6th centroid:
+Final points number in this cluster: 12     0.199   187.833    23.616    26.083     0.370
+The 7th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 8th centroid:
+Final points number in this cluster: 12     0.178   182.167    15.054    25.583     0.356
+
+The best 10 clusters: (SSE =   1797.248	BSS =  16747.762 ) 
+The 0th centroid:
+Final points number in this cluster: 11     0.128   198.273    35.684    26.818     0.545
+The 1th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 2th centroid:
+Final points number in this cluster: 7     0.187   184.714    13.626    24.286     0.311
+The 3th centroid:
+Final points number in this cluster: 15     0.166   190.333    23.013    25.933     0.396
+The 4th centroid:
+Final points number in this cluster: 12     0.156   191.583    34.422    29.083     0.484
+The 5th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 6th centroid:
+Final points number in this cluster: 16     0.232   184.375    33.754    27.250     0.442
+The 7th centroid:
+Final points number in this cluster: 11     0.125   195.455    25.402    31.182     0.421
+The 8th centroid:
+Final points number in this cluster: 9     0.101   195.000    17.333    24.444     0.391
+The 9th centroid:
+Final points number in this cluster: 5     0.166   178.600    17.054    27.400     0.420
+
+The best 11 clusters: (SSE =   1647.352	BSS =  19152.830 ) 
+The 0th centroid:
+Final points number in this cluster: 4     0.161   177.500    16.373    27.250     0.413
+The 1th centroid:
+Final points number in this cluster: 17     0.118   193.765    19.651    24.824     0.391
+The 2th centroid:
+Final points number in this cluster: 8     0.169   190.000    30.134    26.500     0.436
+The 3th centroid:
+Final points number in this cluster: 8     0.147   191.375    36.185    30.125     0.508
+The 4th centroid:
+Final points number in this cluster: 11     0.125   195.455    25.402    31.182     0.421
+The 5th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 6th centroid:
+Final points number in this cluster: 8     0.225   185.625    23.196    26.875     0.386
+The 7th centroid:
+Final points number in this cluster: 7     0.187   184.714    13.626    24.286     0.311
+The 8th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 9th centroid:
+Final points number in this cluster: 11     0.128   198.273    35.684    26.818     0.545
+The 10th centroid:
+Final points number in this cluster: 12     0.238   184.333    35.328    27.667     0.457
+
+The best 12 clusters: (SSE =   1481.414	BSS =  24466.620 ) 
+The 0th centroid:
+Final points number in this cluster: 11     0.179   183.273    14.877    25.636     0.343
+The 1th centroid:
+Final points number in this cluster: 8     0.134   192.625    30.592    28.375     0.458
+The 2th centroid:
+Final points number in this cluster: 6     0.215   185.167    28.082    26.000     0.381
+The 3th centroid:
+Final points number in this cluster: 12     0.238   184.333    35.328    27.667     0.457
+The 4th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 5th centroid:
+Final points number in this cluster: 10     0.125   198.500    36.117    26.700     0.544
+The 6th centroid:
+Final points number in this cluster: 10     0.102   195.100    18.028    24.400     0.383
+The 7th centroid:
+Final points number in this cluster: 7     0.161   191.143    36.729    29.857     0.500
+The 8th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 9th centroid:
+Final points number in this cluster: 1     0.171   170.000    17.000    25.000     0.506
+The 10th centroid:
+Final points number in this cluster: 11     0.169   190.455    21.837    25.909     0.403
+The 11th centroid:
+Final points number in this cluster: 10     0.132   195.700    25.035    31.200     0.432
+
+The best 13 clusters: (SSE =   1347.616	BSS =  25883.386 ) 
+The 0th centroid:
+Final points number in this cluster: 12     0.238   184.333    35.328    27.667     0.457
+The 1th centroid:
+Final points number in this cluster: 5     0.127   193.800    15.092    24.400     0.333
+The 2th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 3th centroid:
+Final points number in this cluster: 10     0.125   198.500    36.117    26.700     0.544
+The 4th centroid:
+Final points number in this cluster: 6     0.215   185.167    28.082    26.000     0.381
+The 5th centroid:
+Final points number in this cluster: 5     0.092   197.400    21.830    24.400     0.403
+The 6th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 7th centroid:
+Final points number in this cluster: 8     0.134   195.750    24.746    31.375     0.422
+The 8th centroid:
+Final points number in this cluster: 5     0.166   178.600    17.054    27.400     0.420
+The 9th centroid:
+Final points number in this cluster: 7     0.161   191.143    36.729    29.857     0.500
+The 10th centroid:
+Final points number in this cluster: 7     0.187   184.714    13.626    24.286     0.311
+The 11th centroid:
+Final points number in this cluster: 12     0.161   190.667    21.621    26.000     0.408
+The 12th centroid:
+Final points number in this cluster: 9     0.131   192.667    30.394    29.000     0.477
+
+The best 14 clusters: (SSE =   1252.963	BSS =  32800.028 ) 
+The 0th centroid:
+Final points number in this cluster: 6     0.115   198.167    22.817    29.667     0.402
+The 1th centroid:
+Final points number in this cluster: 12     0.238   184.333    35.328    27.667     0.457
+The 2th centroid:
+Final points number in this cluster: 7     0.161   191.143    36.729    29.857     0.500
+The 3th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 4th centroid:
+Final points number in this cluster: 7     0.119   193.571    27.867    31.857     0.461
+The 5th centroid:
+Final points number in this cluster: 5     0.194   184.600    11.882    24.200     0.310
+The 6th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 7th centroid:
+Final points number in this cluster: 5     0.232   184.600    27.544    26.000     0.377
+The 8th centroid:
+Final points number in this cluster: 6     0.167   182.167    17.373    26.833     0.371
+The 9th centroid:
+Final points number in this cluster: 7     0.157   191.857    30.580    27.143     0.457
+The 10th centroid:
+Final points number in this cluster: 14     0.149   191.429    21.851    25.643     0.400
+The 11th centroid:
+Final points number in this cluster: 6     0.115   194.167    15.735    24.000     0.368
+The 12th centroid:
+Final points number in this cluster: 1     0.171   170.000    17.000    25.000     0.506
+The 13th centroid:
+Final points number in this cluster: 10     0.125   198.500    36.117    26.700     0.544
+
+The best 15 clusters: (SSE =   1195.288	BSS =  35479.888 ) 
+The 0th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 1th centroid:
+Final points number in this cluster: 8     0.147   191.375    36.185    30.125     0.508
+The 2th centroid:
+Final points number in this cluster: 5     0.092   197.400    21.830    24.400     0.403
+The 3th centroid:
+Final points number in this cluster: 7     0.146   192.571    30.337    27.857     0.444
+The 4th centroid:
+Final points number in this cluster: 4     0.131   198.250    34.465    23.750     0.469
+The 5th centroid:
+Final points number in this cluster: 9     0.130   195.444    25.198    31.667     0.445
+The 6th centroid:
+Final points number in this cluster: 4     0.120   193.250    14.203    32.500     0.293
+The 7th centroid:
+Final points number in this cluster: 6     0.215   185.167    28.082    26.000     0.381
+The 8th centroid:
+Final points number in this cluster: 7     0.187   184.714    13.626    24.286     0.311
+The 9th centroid:
+Final points number in this cluster: 5     0.127   193.800    15.092    24.400     0.333
+The 10th centroid:
+Final points number in this cluster: 12     0.161   190.667    21.621    26.000     0.408
+The 11th centroid:
+Final points number in this cluster: 4     0.155   187.250    14.633    34.000     0.308
+The 12th centroid:
+Final points number in this cluster: 12     0.238   184.333    35.328    27.667     0.457
+The 13th centroid:
+Final points number in this cluster: 5     0.166   178.600    17.054    27.400     0.420
+The 14th centroid:
+Final points number in this cluster: 6     0.120   198.667    37.218    28.667     0.593
+
+The best 16 clusters: (SSE =   1107.164	BSS =  41794.105 ) 
+The 0th centroid:
+Final points number in this cluster: 4     0.131   198.250    34.465    23.750     0.469
+The 1th centroid:
+Final points number in this cluster: 5     0.162   182.600    18.400    26.200     0.371
+The 2th centroid:
+Final points number in this cluster: 5     0.194   184.600    11.882    24.200     0.310
+The 3th centroid:
+Final points number in this cluster: 2     0.179   175.000    14.620    27.500     0.437
+The 4th centroid:
+Final points number in this cluster: 6     0.120   198.667    37.218    28.667     0.593
+The 5th centroid:
+Final points number in this cluster: 12     0.156   191.083    21.053    26.083     0.407
+The 6th centroid:
+Final points number in this cluster: 5     0.229   185.200    26.306    26.200     0.337
+The 7th centroid:
+Final points number in this cluster: 6     0.155   191.667    36.970    29.500     0.512
+The 8th centroid:
+Final points number in this cluster: 9     0.215   185.444    33.284    26.000     0.454
+The 9th centroid:
+Final points number in this cluster: 4     0.102   197.750    22.550    25.000     0.368
+The 10th centroid:
+Final points number in this cluster: 5     0.102   194.400    15.390    23.400     0.390
+The 11th centroid:
+Final points number in this cluster: 8     0.137   190.250    14.418    33.250     0.300
+The 12th centroid:
+Final points number in this cluster: 11     0.133   192.818    29.743    29.182     0.478
+The 13th centroid:
+Final points number in this cluster: 6     0.249   184.000    36.815    30.167     0.449
+The 14th centroid:
+Final points number in this cluster: 6     0.131   196.500    24.058    31.833     0.402
+The 15th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+
+The best 17 clusters: (SSE =   1078.934	BSS =  47513.149 ) 
+The 0th centroid:
+Final points number in this cluster: 4     0.141   200.750    34.290    26.500     0.534
+The 1th centroid:
+Final points number in this cluster: 5     0.232   184.600    27.544    26.000     0.377
+The 2th centroid:
+Final points number in this cluster: 5     0.116   198.200    22.518    28.800     0.402
+The 3th centroid:
+Final points number in this cluster: 6     0.115   194.167    15.735    24.000     0.368
+The 4th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 5th centroid:
+Final points number in this cluster: 5     0.194   184.600    11.882    24.200     0.310
+The 6th centroid:
+Final points number in this cluster: 8     0.144   192.000    30.805    27.750     0.469
+The 7th centroid:
+Final points number in this cluster: 11     0.237   184.000    35.357    27.727     0.459
+The 8th centroid:
+Final points number in this cluster: 6     0.114   197.000    37.335    26.833     0.550
+The 9th centroid:
+Final points number in this cluster: 8     0.172   190.750    36.514    29.500     0.492
+The 10th centroid:
+Final points number in this cluster: 5     0.122   192.200    14.854    32.600     0.282
+The 11th centroid:
+Final points number in this cluster: 1     0.171   170.000    17.000    25.000     0.506
+The 12th centroid:
+Final points number in this cluster: 7     0.127   194.286    26.714    32.143     0.438
+The 13th centroid:
+Final points number in this cluster: 5     0.208   187.400    20.998    26.000     0.379
+The 14th centroid:
+Final points number in this cluster: 4     0.159   182.000    18.360    27.000     0.394
+The 15th centroid:
+Final points number in this cluster: 10     0.123   192.800    21.948    25.200     0.399
+The 16th centroid:
+Final points number in this cluster: 4     0.169   185.250    13.328    33.250     0.340
+
+The best 18 clusters: (SSE =   1007.193	BSS =  45424.462 ) 
+The 0th centroid:
+Final points number in this cluster: 7     0.146   192.571    30.810    28.000     0.479
+The 1th centroid:
+Final points number in this cluster: 4     0.155   187.250    14.633    34.000     0.308
+The 2th centroid:
+Final points number in this cluster: 6     0.130   193.667    27.115    31.833     0.445
+The 3th centroid:
+Final points number in this cluster: 2     0.265   181.500    29.400    28.500     0.447
+The 4th centroid:
+Final points number in this cluster: 6     0.218   185.500    34.433    25.667     0.440
+The 5th centroid:
+Final points number in this cluster: 6     0.115   198.167    22.817    29.667     0.402
+The 6th centroid:
+Final points number in this cluster: 6     0.115   194.167    15.735    24.000     0.368
+The 7th centroid:
+Final points number in this cluster: 4     0.161   177.500    16.373    27.250     0.413
+The 8th centroid:
+Final points number in this cluster: 9     0.112   193.000    21.948    24.889     0.410
+The 9th centroid:
+Final points number in this cluster: 10     0.125   198.500    36.117    26.700     0.544
+The 10th centroid:
+Final points number in this cluster: 7     0.161   191.143    36.729    29.857     0.500
+The 11th centroid:
+Final points number in this cluster: 3     0.175   184.333    18.583    25.667     0.358
+The 12th centroid:
+Final points number in this cluster: 5     0.259   183.200    37.122    29.800     0.454
+The 13th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 14th centroid:
+Final points number in this cluster: 5     0.194   184.600    11.882    24.200     0.310
+The 15th centroid:
+Final points number in this cluster: 4     0.188   186.500    29.240    25.250     0.411
+The 16th centroid:
+Final points number in this cluster: 4     0.120   193.250    14.203    32.500     0.293
+The 17th centroid:
+Final points number in this cluster: 6     0.224   188.000    22.140    27.000     0.372
+
+The best 19 clusters: (SSE =    993.222	BSS =  57866.495 ) 
+The 0th centroid:
+Final points number in this cluster: 6     0.131   196.500    24.058    31.833     0.402
+The 1th centroid:
+Final points number in this cluster: 3     0.109   194.000    13.483    32.333     0.256
+The 2th centroid:
+Final points number in this cluster: 11     0.237   184.000    35.357    27.727     0.459
+The 3th centroid:
+Final points number in this cluster: 6     0.193   183.833    11.942    25.167     0.319
+The 4th centroid:
+Final points number in this cluster: 3     0.162   187.000    13.690    34.333     0.331
+The 5th centroid:
+Final points number in this cluster: 6     0.173   189.500    22.098    25.000     0.385
+The 6th centroid:
+Final points number in this cluster: 6     0.120   198.667    37.218    28.667     0.593
+The 7th centroid:
+Final points number in this cluster: 1     0.171   170.000    17.000    25.000     0.506
+The 8th centroid:
+Final points number in this cluster: 5     0.102   194.400    15.390    23.400     0.390
+The 9th centroid:
+Final points number in this cluster: 4     0.131   198.250    34.465    23.750     0.469
+The 10th centroid:
+Final points number in this cluster: 8     0.172   190.750    36.514    29.500     0.492
+The 11th centroid:
+Final points number in this cluster: 5     0.162   182.600    18.400    26.200     0.371
+The 12th centroid:
+Final points number in this cluster: 11     0.133   192.818    29.743    29.182     0.478
+The 13th centroid:
+Final points number in this cluster: 1     0.094   201.000    20.170    26.000     0.451
+The 14th centroid:
+Final points number in this cluster: 5     0.150   192.600    20.188    27.000     0.390
+The 15th centroid:
+Final points number in this cluster: 6     0.215   185.167    28.082    26.000     0.381
+The 16th centroid:
+Final points number in this cluster: 3     0.166   189.000    18.470    32.000     0.352
+The 17th centroid:
+Final points number in this cluster: 2     0.231   165.000    34.195    29.000     0.359
+The 18th centroid:
+Final points number in this cluster: 4     0.104   195.750    22.955    24.500     0.374
+
