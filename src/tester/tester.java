@@ -4,6 +4,7 @@ import cluster.KMeans;
 import com.beust.jcommander.JCommander;
 import reader.arffReader;
 import reader.paraReader;
+import reader.writer;
 import util.instances;
 
 import java.io.IOException;
@@ -19,7 +20,7 @@ import java.util.ArrayList;
 public class tester {
     public static void main(String[] args) throws IOException {
         paraReader jct = new paraReader();
-        String[] argv1 = {"-i", "dat/baskball.arff", "-sr", "2", "-er", "30", "-iter", "100"};
+        String[] argv1 = {"-i", "dat/baskball.arff", "-o", "output.txt", "-sr", "2", "-er", "30", "-iter", "100"};
         new JCommander(jct, argv1);
 
         instances insts = new instances();
@@ -27,6 +28,8 @@ public class tester {
         arffReader rdr = new arffReader(jct.inDir, insts);
         rdr.readTrnInst();
         rdr.close();
+
+        writer output = new writer(jct.outDir, "utf-8");
 
         int bestK = 0;
         double bestSSE = Double.MAX_VALUE;

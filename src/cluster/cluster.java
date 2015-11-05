@@ -1,7 +1,10 @@
 package cluster;
 
+import reader.writer;
 import util.instance;
+import util.instances;
 
+import java.io.IOException;
 import java.util.Arrays;
 
 /**
@@ -48,4 +51,5 @@ public class cluster {
         }
         this.center = cTmp;
     }
+
 }

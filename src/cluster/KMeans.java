@@ -1,8 +1,10 @@
 package cluster;
 
+import reader.writer;
 import util.instance;
 import util.instances;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -75,6 +77,19 @@ public class KMeans extends clustering {
                 updated = c.isUpdated || updated;
             }
         }
+    }
+
+
+    public void output (writer wtr) throws IOException {
+        for (int i = 0; i < this.centers.size(); i++){
+            wtr.writer.write("The " + i + "th centroid:" + "\n");
+            for (int j = 0; j < this.centers.get(i).center.inst.length; j++){
+                if (this.insts.getFeatures().get(i).isNumeric())
+                    wtr.writer.write("10.3%f");
+            }
+        }
+
+
     }
 
 }
