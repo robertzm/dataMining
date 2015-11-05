@@ -14,12 +14,16 @@ public class feature {
     private featureType featureType;
     private ArrayList<Double> nominalFeatureSet;
     private String des;
+    private double minValue;
+    private double maxValue;
 
     public feature(int ind, featureType ft, String des){
         this.index = ind;
         this.featureType = ft;
         this.nominalFeatureSet = new ArrayList<>();
         this.des = des;
+        this.minValue = Double.MAX_VALUE;
+        this.maxValue = Double.MIN_VALUE;
     }
 
     public feature(int ind, featureType ft){
@@ -27,6 +31,8 @@ public class feature {
         this.featureType = ft;
         this.nominalFeatureSet = new ArrayList<>();
         this.des = "";
+        this.minValue = Double.MAX_VALUE;
+        this.maxValue = Double.MIN_VALUE;
     }
 
     public ArrayList<Double> getNominalFeatureSet(){
@@ -63,5 +69,21 @@ public class feature {
 
     public void setIndex(int index) {
         this.index = index;
+    }
+
+    public double getMinValue() {
+        return minValue;
+    }
+
+    public void setMinValue(double minValue) {
+        this.minValue = minValue;
+    }
+
+    public double getMaxValue() {
+        return maxValue;
+    }
+
+    public void setMaxValue(double maxValue) {
+        this.maxValue = maxValue;
     }
 }
