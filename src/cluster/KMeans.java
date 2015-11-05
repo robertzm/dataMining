@@ -1,10 +1,10 @@
 package cluster;
 
-import reader.writer;
 import util.instance;
 import util.instances;
 
 import java.io.IOException;
+import java.io.Writer;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -20,17 +20,20 @@ public class KMeans extends clustering {
     public ArrayList<cluster> centers;
     public instances insts;
     public int itera;
-    public double sqDistSum;
+    public double SSE;
+    public double BSS;
+    public boolean norm = false;
 
-
-    public KMeans (int k, instances insts) {
+    public KMeans (int k, instances insts, boolean norm) {
         super();
         this.setCluster("KMeans");
         this.K = k;
         this.centers = new ArrayList<>();
         this.itera = 0;
         this.insts = insts;
-        this.sqDistSum = 0;
+        this.SSE = 0;
+        this.BSS = 0;
+        this.norm = norm;
 
         Random rand = new Random();
 
@@ -53,7 +56,7 @@ public class KMeans extends clustering {
         while(updated){
             this.itera++;
             this.insts.trnRst.clear();
-            this.sqDistSum = 0;
+            this.SSE = 0;
             for(cluster c: this.centers){
                 c.clear();
             }
@@ -62,34 +65,70 @@ public class KMeans extends clustering {
                 double min = Double.MAX_VALUE;
                 int minIndex = 0;
                 for (int i = 0; i < this.K; i++){
-                    double tmp = inst.sqDist(this.centers.get(i).center);
+                    double tmp = inst.sqDist(this.centers.get(i).center, this.insts, this.norm);
                     if(tmp < min){
                         min = tmp;
                         minIndex = i;
                     }
                 }
-                this.centers.get(minIndex).addPoint(inst);
+                this.centers.get(minIndex).addPoint(inst, this.insts);
                 this.insts.trnRst.add(new Double(minIndex));
-                this.sqDistSum += min;
+                this.SSE += min;
             }
             for (cluster c: this.centers){
-                c.update();
+                c.update(this.insts);
                 updated = c.isUpdated || updated;
             }
         }
+        updateBSS();
+    }
+
+    private void updateBSS(){
+        for (int i = 0; i < this.centers.size(); i++)
+            for (int j = i + 1; j < this.centers.size(); j++)
+                for (int k = 0; k < this.insts.getFeatures().size(); k++) {
+                    if (this.insts.getFeatures().get(k).isNumeric()) {
+                        double tmp = (this.centers.get(i).center.inst[k] - this.centers.get(j).center.inst[k]);
+                        this.BSS += tmp * tmp;
+                    }else{
+                        this.BSS += 1;
+                    }
+                }
+    }
+
+    public void printInfo () {
+        System.out.println("The best " + this.centers.size() + " clusters: (SSE = " + String.format("%10.3f", this.SSE) + "\tBSS = " + String.format("%10.3f", this.BSS) + " )");
+        for (int i = 0; i < this.centers.size(); i++){
+            System.out.print("The " + i + "th centroid:" + "\n");
+            System.out.print("Final points number in this cluster: " + this.centers.get(i).nNum + "\n");
+            for (int j = 0; j < this.centers.get(i).center.inst.length; j++){
+                if (this.insts.getFeatures().get(j).isNumeric())
+                    System.out.print(String.format("%10.3f", this.centers.get(i).center.inst[j]));
+                else if(this.insts.getFeatures().get(j).isNominal())
+                    System.out.print(String.format("%20s", this.insts.double2Feature.get(this.centers.get(i).center.inst[j])));
+                else System.out.print("Error");
+            }
+            System.out.print("\n");
+        }
+        System.out.print("\n");
     }
 
 
-    public void output (writer wtr) throws IOException {
+    public void output (Writer wtr) throws IOException {
+        wtr.write("The best " + this.centers.size() + " clusters: (SSE = " + String.format("%10.3f", this.SSE) + "\tBSS = " + String.format("%10.3f", this.BSS) + " ) \n");
         for (int i = 0; i < this.centers.size(); i++){
-            wtr.writer.write("The " + i + "th centroid:" + "\n");
+            wtr.write("The " + i + "th centroid:" + "\n");
+            wtr.write("Final points number in this cluster: " + this.centers.get(i).nNum);
             for (int j = 0; j < this.centers.get(i).center.inst.length; j++){
-                if (this.insts.getFeatures().get(i).isNumeric())
-                    wtr.writer.write("10.3%f");
+                if (this.insts.getFeatures().get(j).isNumeric())
+                    wtr.write(String.format("%10.3f", this.centers.get(i).center.inst[j]));
+                else if(this.insts.getFeatures().get(j).isNominal())
+                    wtr.write(String.format("%20s", this.insts.double2Feature.get(this.centers.get(i).center.inst[j])));
+                else System.out.print("Error");
             }
+            wtr.write("\n");
         }
-
-
+        wtr.write("\n");
     }
 
 }
