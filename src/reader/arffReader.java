@@ -93,6 +93,10 @@ public class arffReader extends BufferedReader {
             for (String item : items) {
                 if(this.insts.isNumeric(i)){
                     instTemp.inst[i] = Double.parseDouble(item);
+                    if (instTemp.inst[i] < this.insts.getFeatures().get(i).getMinValue())
+                        this.insts.getFeatures().get(i).setMinValue(instTemp.inst[i]);
+                    if (instTemp.inst[i] > this.insts.getFeatures().get(i).getMaxValue())
+                        this.insts.getFeatures().get(i).setMaxValue(instTemp.inst[i]);
                 }else if(this.insts.isNominal(i)){
                     String sTmp = i + ":" + item;
                     if(this.insts.feature2Double.containsKey(sTmp)){
