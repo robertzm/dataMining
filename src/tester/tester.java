@@ -18,9 +18,13 @@ import java.io.*;
 public class tester {
     public static void main(String[] args) throws IOException {
         paraReader jct = new paraReader();
-        String[] argv1 = {"-i", "dat/baskball.arff", "-o", "output.txt", "-sr", "2", "-er", "20", "-iter", "100", "-n", "0"};
-        //String[] argv1 = {"-i", "dat/cloud.arff", "-o", "output.txt", "-sr", "2", "-er", "10", "-iter", "100", "-n", "false"};
-        new JCommander(jct, argv1);
+        if(args.length == 0) {
+            args = new String[]{"-i", "dat/baskball.arff", "-o", "output.txt", "-sr", "1", "-er", "2", "-iter", "100", "-n", "1"};
+            //args = new String[]{"-i", "dat/cloud.arff", "-o", "output.txt", "-sr", "2", "-er", "20", "-iter", "100", "-n", "0"};
+            //args = new String[]{"-i", "dat/housing.arff", "-o", "output.txt", "-sr", "2", "-er", "10", "-iter", "100", "-n", "0"};
+            //args = new String[]{"-i", "dat/mushroom.arff", "-o", "output.txt", "-sr", "1", "-er", "2", "-iter", "100", "-n", "1"};
+        }
+        new JCommander(jct, args);
 
         instances insts = new instances();
 
