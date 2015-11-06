@@ -29,7 +29,7 @@ public class instances {
         this.feature2Double = new HashMap<>();
         this.double2Feature = new HashMap<>();
         this.numFeatures = 0;
-        this.classPosi = 0;
+        this.classPosi = -1;
         this.numInsts = 0;
         this.des = "";
         this.features = new ArrayList<>();
