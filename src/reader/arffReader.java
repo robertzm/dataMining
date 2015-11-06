@@ -61,6 +61,7 @@ public class arffReader extends BufferedReader {
             System.exit(0);
         }
         while ((line = skip(readLine())) != null && line.startsWith("@attribute ")) {
+            line = line.replace("\'", "");
             line = line.substring(11);
             String[] stmp = line.split(" ",2);
             if(stmp[0].equals("class")) {
