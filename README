@@ -1,0 +1,37 @@
+To execute this program, you’d better import this project into IntelliJ IDEA 14.1.5 (or Eclipse, 
+but I didn't test it) and use JDK 1.8.0_60. Besides, there is an external .jar library, 
+jcommander-1.27.jar, which is used to handle multiple parameters. Please include it as your 
+external library.
+
+Prameters are defined as follows:
+
+@Parameter(names = {"-i", "-indir"}, description = "Input file directory")
+public String inDir;
+@Parameter(names = {"-o", "-outdir"}, description = "Output file directory")
+public String outDir;
+@Parameter(names = {"-d", "-delimiter"}, description = "Delimiter symbol in input file")
+public String deli;
+@Parameter(names = {"-k"}, description = "The clusters number")
+public int clusterNum = 3;
+@Parameter(names = {"-sr"}, description = "The clusters number range start point")
+public int startRange = 3;
+@Parameter(names = {"-er"}, description = "The clusters number range end point")
+public int endRange = 3;
+@Parameter(names = {"-iter"}, description = "The iteration for each clusters number")
+public int iter = 100;
+@Parameter(names = {"-m"}, description = "The maximum iteration to find centroid")
+public int maxIter = 100;
+@Parameter(names = {"-n"}, description = "Normalization or not, 0: non-normalization, 1: normalization")
+public int norm = 0;
+
+Test dataset are all stored in ./proj/dat directory.
+Test output are all stored in ./proj directory.
+Scource code are all stored in ./src directory.
+
+Usage:
+Set parameters like
+-i dat/baskball.arff –o output.txt –sr 2 –er 20 –iter 100 –n 0
+    
+Recompile, run and wait for result. 
+Happy done.
+
