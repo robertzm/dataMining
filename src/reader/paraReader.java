@@ -42,7 +42,7 @@ public class paraReader {
     @Parameter(names = {"-m"}, description = "The maximum iteration to find centroid")
     public int maxIter = 100;
 
-    @Parameter(names = {"-n"}, description = "Normalization or not")
+    @Parameter(names = {"-n"}, description = "Normalization or not, 0: non-normalization, 1: normalization")
     public int norm = 0;
 }
 
