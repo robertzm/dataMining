@@ -1,0 +1,6 @@
+The best 1 clusters: (SSE =     21.115	BSS =      0.000 ) 
+The 0th cluster:
+Final points number in this cluster: 96(    100.00%)
+Centroid:
+     0.161   189.875    25.944    27.740     0.420
+

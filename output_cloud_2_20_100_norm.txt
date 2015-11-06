@@ -1,0 +1,792 @@
+The best 2 clusters: (SSE =    101.560	BSS =      2.005 ) 
+The 0th cluster:
+Final points number in this cluster: 54(     50.00%)
+Centroid:
+   100.667                   U              SPRING     1.687     1.250     2.361     1.315
+The 1th cluster:
+Final points number in this cluster: 54(     50.00%)
+Centroid:
+   100.481                   S              SPRING     1.326     1.154     2.025     1.151
+
+The best 3 clusters: (SSE =     84.855	BSS =      6.301 ) 
+The 0th cluster:
+Final points number in this cluster: 25(     23.15%)
+Centroid:
+   109.080                   U              WINTER     2.784     1.719     3.703     1.863
+The 1th cluster:
+Final points number in this cluster: 33(     30.56%)
+Centroid:
+    98.909                   U              SPRING     0.997     0.999     1.589     0.968
+The 2th cluster:
+Final points number in this cluster: 50(     46.30%)
+Centroid:
+    97.420                   S              SPRING     1.204     1.078     1.837     1.092
+
+The best 4 clusters: (SSE =     71.053	BSS =     12.704 ) 
+The 0th cluster:
+Final points number in this cluster: 28(     25.93%)
+Centroid:
+   105.214                   U              SPRING     1.116     1.075     1.740     1.055
+The 1th cluster:
+Final points number in this cluster: 30(     27.78%)
+Centroid:
+    84.967                   S              SUMMER     0.771     0.626     1.064     0.627
+The 2th cluster:
+Final points number in this cluster: 27(     25.00%)
+Centroid:
+   111.444                   S              SPRING     1.545     1.577     2.579     1.515
+The 3th cluster:
+Final points number in this cluster: 23(     21.30%)
+Centroid:
+   102.522                   U              WINTER     2.896     1.668     3.762     1.907
+
+The best 5 clusters: (SSE =     59.167	BSS =     20.986 ) 
+The 0th cluster:
+Final points number in this cluster: 21(     19.44%)
+Centroid:
+    99.810                   U              SPRING     1.372     1.159     1.965     1.178
+The 1th cluster:
+Final points number in this cluster: 24(     22.22%)
+Centroid:
+    70.667                   S              WINTER     1.615     1.115     2.510     1.026
+The 2th cluster:
+Final points number in this cluster: 22(     20.37%)
+Centroid:
+   128.318                   U              AUTUMN     2.473     1.832     3.293     2.095
+The 3th cluster:
+Final points number in this cluster: 24(     22.22%)
+Centroid:
+   103.167                   S              SUMMER     0.620     0.620     0.902     0.605
+The 4th cluster:
+Final points number in this cluster: 17(     15.74%)
+Centroid:
+   104.176                   S              SPRING     1.519     1.386     2.426     1.362
+
+The best 6 clusters: (SSE =     46.539	BSS =     30.970 ) 
+The 0th cluster:
+Final points number in this cluster: 22(     20.37%)
+Centroid:
+    94.636                   U              SPRING     1.301     1.161     1.953     1.200
+The 1th cluster:
+Final points number in this cluster: 14(     12.96%)
+Centroid:
+    95.643                   S              WINTER     1.629     1.203     2.528     1.090
+The 2th cluster:
+Final points number in this cluster: 21(     19.44%)
+Centroid:
+   103.429                   U              WINTER     2.771     1.645     3.574     1.859
+The 3th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   103.750                   S              SPRING     1.502     1.372     2.389     1.333
+The 4th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   120.875                   S              AUTUMN     1.036     1.058     1.757     1.152
+The 5th cluster:
+Final points number in this cluster: 19(     17.59%)
+Centroid:
+    88.158                   S              SUMMER     0.656     0.738     0.899     0.667
+
+The best 7 clusters: (SSE =     35.303	BSS =     42.998 ) 
+The 0th cluster:
+Final points number in this cluster: 13(     12.04%)
+Centroid:
+   110.385                   U              AUTUMN     1.625     1.312     2.532     1.219
+The 1th cluster:
+Final points number in this cluster: 14(     12.96%)
+Centroid:
+    95.643                   S              WINTER     1.629     1.203     2.528     1.090
+The 2th cluster:
+Final points number in this cluster: 19(     17.59%)
+Centroid:
+   104.000                   U              SPRING     1.359     1.188     1.942     1.254
+The 3th cluster:
+Final points number in this cluster: 19(     17.59%)
+Centroid:
+    88.158                   S              SUMMER     0.656     0.738     0.899     0.667
+The 4th cluster:
+Final points number in this cluster: 15(     13.89%)
+Centroid:
+    98.333                   U              WINTER     2.790     1.534     3.505     1.833
+The 5th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 6th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   103.750                   S              SPRING     1.502     1.372     2.389     1.333
+
+The best 8 clusters: (SSE =     24.196	BSS =     56.920 ) 
+The 0th cluster:
+Final points number in this cluster: 14(     12.96%)
+Centroid:
+    95.643                   U              WINTER     2.564     1.360     3.372     1.599
+The 1th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   104.000                   U              SPRING     1.319     1.229     2.021     1.219
+The 2th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.833                   U              AUTUMN     1.646     1.245     2.492     1.188
+The 3th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 4th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   103.750                   S              SPRING     1.502     1.372     2.389     1.333
+The 5th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 6th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.917                   U              SUMMER     1.194     1.154     1.503     1.237
+The 7th cluster:
+Final points number in this cluster: 14(     12.96%)
+Centroid:
+    95.643                   S              WINTER     1.629     1.203     2.528     1.090
+
+The best 9 clusters: (SSE =     21.026	BSS =     85.150 ) 
+The 0th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    86.083                   U              WINTER     1.845     1.013     2.748     1.027
+The 1th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   103.750                   S              SPRING     1.502     1.372     2.389     1.333
+The 2th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 3th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 4th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   104.000                   U              SPRING     1.319     1.229     2.021     1.219
+The 5th cluster:
+Final points number in this cluster: 14(     12.96%)
+Centroid:
+    95.643                   S              WINTER     1.629     1.203     2.528     1.090
+The 6th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.833                   U              AUTUMN     1.646     1.245     2.492     1.188
+The 7th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+    90.091                   U              SUMMER     0.762     0.898     1.151     0.884
+The 8th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   147.333                   U              WINTER     6.570     3.620     6.537     5.060
+
+The best 10 clusters: (SSE =     19.245	BSS =    106.871 ) 
+The 0th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 1th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+   116.000                   S              SPRING     2.353     2.249     3.754     2.191
+The 2th cluster:
+Final points number in this cluster: 14(     12.96%)
+Centroid:
+    95.643                   S              WINTER     1.629     1.203     2.528     1.090
+The 3th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.833                   U              AUTUMN     1.646     1.245     2.492     1.188
+The 4th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   147.333                   U              WINTER     6.570     3.620     6.537     5.060
+The 5th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    86.083                   U              WINTER     1.845     1.013     2.748     1.027
+The 6th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+    91.500                   S              SPRING     0.651     0.495     1.024     0.475
+The 7th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+    90.091                   U              SUMMER     0.762     0.898     1.151     0.884
+The 8th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 9th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   104.000                   U              SPRING     1.319     1.229     2.021     1.219
+
+The best 11 clusters: (SSE =     18.128	BSS =    131.398 ) 
+The 0th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   162.857                   U              SPRING     1.239     1.381     2.297     1.317
+The 1th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   106.000                   S              SPRING     0.944     0.940     1.511     0.813
+The 2th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+    90.091                   U              SUMMER     0.762     0.898     1.151     0.884
+The 3th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+    58.222                   U              SPRING     1.382     1.111     1.806     1.143
+The 4th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.833                   U              AUTUMN     1.646     1.245     2.492     1.188
+The 5th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 6th cluster:
+Final points number in this cluster: 14(     12.96%)
+Centroid:
+    95.643                   S              WINTER     1.629     1.203     2.528     1.090
+The 7th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+    97.000                   S              SPRING     3.175     2.668     5.023     2.893
+The 8th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    86.083                   U              WINTER     1.845     1.013     2.748     1.027
+The 9th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 10th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   147.333                   U              WINTER     6.570     3.620     6.537     5.060
+
+The best 12 clusters: (SSE =     16.918	BSS =    158.954 ) 
+The 0th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+    50.800                   S              SPRING     0.414     0.434     0.906     0.396
+The 1th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 2th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 3th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   145.429                   S              SPRING     1.323     1.301     1.943     1.111
+The 4th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 5th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.833                   U              AUTUMN     1.646     1.245     2.492     1.188
+The 6th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   147.333                   U              WINTER     6.570     3.620     6.537     5.060
+The 7th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    86.083                   U              WINTER     1.845     1.013     2.748     1.027
+The 8th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   104.000                   U              SPRING     1.319     1.229     2.021     1.219
+The 9th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+    90.091                   U              SUMMER     0.762     0.898     1.151     0.884
+The 10th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+The 11th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+    97.000                   S              SPRING     3.175     2.668     5.023     2.893
+
+The best 13 clusters: (SSE =     15.880	BSS =    189.564 ) 
+The 0th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+The 1th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   147.333                   U              WINTER     6.570     3.620     6.537     5.060
+The 2th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+    94.167                   S              AUTUMN     1.947     2.042     2.997     2.407
+The 3th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 4th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.833                   U              AUTUMN     1.646     1.245     2.492     1.188
+The 5th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+    36.500                   S              SPRING     3.920     2.435     4.630     3.405
+The 6th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+   122.833                   S              AUTUMN     0.485     0.353     0.962     0.375
+The 7th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 8th cluster:
+Final points number in this cluster: 16(     14.81%)
+Centroid:
+   104.000                   U              SPRING     1.319     1.229     2.021     1.219
+The 9th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+   148.111                   S              SPRING     1.569     1.657     2.714     1.393
+The 10th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+    90.091                   U              SUMMER     0.762     0.898     1.151     0.884
+The 11th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    86.083                   U              WINTER     1.845     1.013     2.748     1.027
+The 12th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+    50.800                   S              SPRING     0.414     0.434     0.906     0.396
+
+The best 14 clusters: (SSE =     14.644	BSS =    221.284 ) 
+The 0th cluster:
+Final points number in this cluster: 10(      9.26%)
+Centroid:
+    86.200                   U              SUMMER     0.700     0.777     0.965     0.813
+The 1th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 2th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 3th cluster:
+Final points number in this cluster: 10(      9.26%)
+Centroid:
+   143.200                   U              SPRING     1.120     1.300     1.983     1.212
+The 4th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.833                   U              AUTUMN     1.646     1.245     2.492     1.188
+The 5th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   181.667                   U              WINTER     2.090     1.717     3.337     1.917
+The 6th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    90.857                   S              SPRING     0.440     0.404     0.837     0.369
+The 7th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+The 8th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+   113.778                   S              SPRING     2.328     2.124     3.596     2.083
+The 9th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+   132.500                   U              SUMMER     3.665     3.040     4.190     3.355
+The 10th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 11th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+    38.667                   U              SPRING     1.652     1.112     2.083     1.232
+The 12th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+    54.222                   U              WINTER     1.763     0.778     2.551     0.730
+The 13th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+   153.000                   U              WINTER     6.880     3.445     7.120     5.030
+
+The best 15 clusters: (SSE =     14.374	BSS =    241.983 ) 
+The 0th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+   116.000                   S              SPRING     2.353     2.249     3.754     2.191
+The 1th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+    91.500                   S              SPRING     0.651     0.495     1.024     0.475
+The 2th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 3th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+   170.200                   U              WINTER     4.006     2.408     4.850     3.162
+The 4th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+    54.222                   U              WINTER     1.763     0.778     2.551     0.730
+The 5th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   158.000                   U              AUTUMN     0.495     0.640     1.092     0.435
+The 6th cluster:
+Final points number in this cluster: 10(      9.26%)
+Centroid:
+    86.200                   U              SUMMER     0.700     0.777     0.965     0.813
+The 7th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   127.500                   U              SPRING     2.395     2.045     3.405     2.138
+The 8th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   108.500                   S              AUTUMN     1.216     1.198     1.979     1.391
+The 9th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 10th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+    64.667                   U              SPRING     1.060     0.952     1.599     0.924
+The 11th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   190.667                   U              SPRING     0.663     0.973     1.440     0.880
+The 12th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+    84.250                   U              AUTUMN     2.221     1.547     3.193     1.565
+The 13th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+The 14th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+   132.500                   U              SUMMER     3.665     3.040     4.190     3.355
+
+The best 16 clusters: (SSE =     13.190	BSS =    289.284 ) 
+The 0th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+    90.091                   U              SUMMER     0.762     0.898     1.151     0.884
+The 1th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+    39.000                   U              AUTUMN     1.260     1.745     2.150     1.325
+The 2th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+   106.000                   S              SPRING     0.944     0.940     1.511     0.813
+The 3th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+   156.600                   U              WINTER     1.904     1.268     2.892     1.378
+The 4th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+The 5th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+    97.000                   S              SPRING     3.175     2.668     5.023     2.893
+The 6th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 7th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 8th cluster:
+Final points number in this cluster: 10(      9.26%)
+Centroid:
+    77.000                   U              SPRING     0.954     0.876     1.445     0.868
+The 9th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   129.500                   U              AUTUMN     3.183     1.350     4.235     1.805
+The 10th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+   143.000                   S              AUTUMN     2.140     2.790     2.670     3.735
+The 11th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   147.333                   U              WINTER     6.570     3.620     6.537     5.060
+The 12th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.714                   U              WINTER     1.803     0.830     2.644     0.776
+The 13th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+   149.000                   U              SPRING     1.928     1.818     2.980     1.805
+The 14th cluster:
+Final points number in this cluster: 10(      9.26%)
+Centroid:
+   101.600                   S              AUTUMN     1.031     0.879     1.841     0.922
+The 15th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   158.000                   U              AUTUMN     0.495     0.640     1.092     0.435
+
+The best 17 clusters: (SSE =     12.637	BSS =    339.496 ) 
+The 0th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+    97.000                   S              SPRING     3.175     2.668     5.023     2.893
+The 1th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   128.000                   S              AUTUMN     2.273     2.215     3.230     2.782
+The 2th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+   113.600                   U              AUTUMN     2.994     1.884     3.892     1.990
+The 3th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   110.250                   U              SUMMER     1.523     1.255     1.892     1.475
+The 4th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    86.083                   U              WINTER     1.845     1.013     2.748     1.027
+The 5th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+    50.800                   S              SPRING     0.414     0.434     0.906     0.396
+The 6th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 7th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   145.429                   S              SPRING     1.323     1.301     1.943     1.111
+The 8th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    46.714                   U              SPRING     1.623     1.163     2.100     1.299
+The 9th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+   153.000                   U              WINTER     6.880     3.445     7.120     5.030
+The 10th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+The 11th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+   148.556                   U              SPRING     1.083     1.281     1.959     1.158
+The 12th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   105.429                   U              AUTUMN     0.683     0.789     1.493     0.616
+The 13th cluster:
+Final points number in this cluster: 1(      0.93%)
+Centroid:
+   136.000                   U              SUMMER     5.950     3.970     5.370     5.120
+The 14th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 15th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    78.571                   U              SUMMER     0.327     0.694     0.727     0.546
+The 16th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+    98.750                   S              AUTUMN     0.687     0.689     1.354     0.695
+
+The best 18 clusters: (SSE =     12.133	BSS =    358.443 ) 
+The 0th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    90.857                   S              SUMMER     0.323     0.341     0.446     0.364
+The 1th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+    39.000                   U              AUTUMN     1.260     1.745     2.150     1.325
+The 2th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+    97.800                   S              SUMMER     1.584     1.356     1.774     1.260
+The 3th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+   142.500                   S              SPRING     1.830     2.187     3.462     1.787
+The 4th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   158.500                   S              AUTUMN     0.433     0.235     0.990     0.275
+The 5th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+    36.500                   S              SPRING     3.920     2.435     4.630     3.405
+The 6th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+   149.000                   U              SPRING     1.928     1.818     2.980     1.805
+The 7th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+    91.500                   S              SPRING     0.651     0.495     1.024     0.475
+The 8th cluster:
+Final points number in this cluster: 10(      9.26%)
+Centroid:
+    86.200                   U              SUMMER     0.700     0.777     0.965     0.813
+The 9th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 10th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   158.000                   U              AUTUMN     0.495     0.640     1.092     0.435
+The 11th cluster:
+Final points number in this cluster: 8(      7.41%)
+Centroid:
+    83.500                   S              AUTUMN     1.608     1.679     2.474     1.949
+The 12th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+    54.222                   U              WINTER     1.763     0.778     2.551     0.730
+The 13th cluster:
+Final points number in this cluster: 10(      9.26%)
+Centroid:
+    77.000                   U              SPRING     0.954     0.876     1.445     0.868
+The 14th cluster:
+Final points number in this cluster: 2(      1.85%)
+Centroid:
+   132.500                   U              SUMMER     3.665     3.040     4.190     3.355
+The 15th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+   170.200                   U              WINTER     4.006     2.408     4.850     3.162
+The 16th cluster:
+Final points number in this cluster: 4(      3.70%)
+Centroid:
+   129.500                   U              AUTUMN     3.183     1.350     4.235     1.805
+The 17th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+
+The best 19 clusters: (SSE =     11.642	BSS =    434.270 ) 
+The 0th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.714                   U              WINTER     1.803     0.830     2.644     0.776
+The 1th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+   155.429                   S              WINTER     1.499     1.499     2.847     1.134
+The 2th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+    50.800                   S              SPRING     0.414     0.434     0.906     0.396
+The 3th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+    94.167                   S              AUTUMN     1.947     2.042     2.997     2.407
+The 4th cluster:
+Final points number in this cluster: 6(      5.56%)
+Centroid:
+   122.833                   S              AUTUMN     0.485     0.353     0.962     0.375
+The 5th cluster:
+Final points number in this cluster: 1(      0.93%)
+Centroid:
+    63.000                   S              SPRING     5.080     1.770     4.200     3.430
+The 6th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   191.000                   S              SPRING     0.743     0.980     0.970     0.590
+The 7th cluster:
+Final points number in this cluster: 1(      0.93%)
+Centroid:
+    50.000                   U              AUTUMN     2.240     4.020     2.520     2.730
+The 8th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+   114.182                   U              AUTUMN     1.592     0.993     2.490     1.048
+The 9th cluster:
+Final points number in this cluster: 3(      2.78%)
+Centroid:
+   147.333                   U              WINTER     6.570     3.620     6.537     5.060
+The 10th cluster:
+Final points number in this cluster: 12(     11.11%)
+Centroid:
+    93.750                   S              SUMMER     0.848     0.764     0.999     0.737
+The 11th cluster:
+Final points number in this cluster: 1(      0.93%)
+Centroid:
+    10.000                   S              SPRING     2.760     3.100     5.060     3.380
+The 12th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    35.857                   S              WINTER     1.759     0.907     2.209     1.046
+The 13th cluster:
+Final points number in this cluster: 1(      0.93%)
+Centroid:
+   187.000                   S              SPRING     2.740     3.030     6.390     2.670
+The 14th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+   114.600                   S              SPRING     1.830     1.788     3.026     1.620
+The 15th cluster:
+Final points number in this cluster: 7(      6.48%)
+Centroid:
+    46.714                   U              SPRING     1.623     1.163     2.100     1.299
+The 16th cluster:
+Final points number in this cluster: 5(      4.63%)
+Centroid:
+   156.600                   U              WINTER     1.904     1.268     2.892     1.378
+The 17th cluster:
+Final points number in this cluster: 11(     10.19%)
+Centroid:
+    90.091                   U              SUMMER     0.762     0.898     1.151     0.884
+The 18th cluster:
+Final points number in this cluster: 9(      8.33%)
+Centroid:
+   148.556                   U              SPRING     1.083     1.281     1.959     1.158
+

@@ -1,0 +1,324 @@
+The best 2 clusters: (SSE =  57196.000	BSS =     22.000 ) 
+The 0th cluster:
+Final points number in this cluster: 2883(     38.84%)
+     class    number
+         p      2838
+         e        45
+Centroid:
+                   p                   f                   y                   n                   f                   f                   f                   c                   n                   b                   t                   k                   k                   p                   p                   p                   w                   o                   e                   w                   v                   d
+The 1th cluster:
+Final points number in this cluster: 4540(     61.16%)
+     class    number
+         p       734
+         e      3806
+Centroid:
+                   e                   x                   s                   n                   t                   n                   f                   c                   b                   w                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+
+The best 3 clusters: (SSE =  49844.000	BSS =     66.000 ) 
+The 0th cluster:
+Final points number in this cluster: 4533(     61.07%)
+     class    number
+         p       725
+         e      3808
+Centroid:
+                   e                   x                   y                   n                   t                   n                   f                   c                   b                   w                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+The 1th cluster:
+Final points number in this cluster: 1236(     16.65%)
+     class    number
+         p      1227
+         e         9
+Centroid:
+                   p                   f                   y                   g                   f                   f                   f                   c                   b                   p                   e                   k                   k                   n                   b                   p                   w                   o                   l                   h                   y                   d
+The 2th cluster:
+Final points number in this cluster: 1654(     22.28%)
+     class    number
+         p      1620
+         e        34
+Centroid:
+                   p                   f                   y                   n                   f                   s                   f                   c                   n                   b                   t                   k                   s                   w                   w                   p                   w                   o                   e                   w                   v                   l
+
+The best 4 clusters: (SSE =  45638.000	BSS =    132.000 ) 
+The 0th cluster:
+Final points number in this cluster: 2936(     39.55%)
+     class    number
+         p       310
+         e      2626
+Centroid:
+                   e                   f                   f                   n                   t                   n                   f                   c                   b                   n                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+The 1th cluster:
+Final points number in this cluster: 1694(     22.82%)
+     class    number
+         p      1660
+         e        34
+Centroid:
+                   p                   x                   s                   n                   f                   s                   f                   c                   n                   b                   t                   s                   s                   w                   w                   p                   w                   o                   e                   w                   v                   d
+The 2th cluster:
+Final points number in this cluster: 1569(     21.14%)
+     class    number
+         p       379
+         e      1190
+Centroid:
+                   e                   x                   s                   w                   t                   n                   f                   c                   b                   w                   e                   s                   s                   w                   w                   p                   w                   o                   p                   n                   s                   g
+The 3th cluster:
+Final points number in this cluster: 1224(     16.49%)
+     class    number
+         p      1223
+         e         1
+Centroid:
+                   p                   x                   y                   g                   f                   f                   f                   c                   b                   p                   e                   k                   k                   b                   b                   p                   w                   o                   l                   h                   v                   d
+
+The best 5 clusters: (SSE =  42691.000	BSS =    220.000 ) 
+The 0th cluster:
+Final points number in this cluster: 385(      5.19%)
+     class    number
+         p       376
+         e         9
+Centroid:
+                   p                   f                   s                   w                   t                   f                   f                   c                   b                   p                   t                   s                   s                   w                   w                   p                   w                   o                   p                   h                   v                   g
+The 1th cluster:
+Final points number in this cluster: 2952(     39.77%)
+     class    number
+         p       165
+         e      2787
+Centroid:
+                   e                   x                   y                   n                   t                   n                   f                   c                   b                   w                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+The 2th cluster:
+Final points number in this cluster: 1875(     25.26%)
+     class    number
+         p      1817
+         e        58
+Centroid:
+                   p                   x                   s                   n                   f                   s                   f                   c                   n                   b                   t                   s                   s                   w                   w                   p                   w                   o                   e                   w                   v                   d
+The 3th cluster:
+Final points number in this cluster: 1207(     16.26%)
+     class    number
+         p      1207
+         e         0
+Centroid:
+                   p                   f                   y                   g                   f                   f                   f                   c                   b                   p                   e                   k                   k                   b                   b                   p                   w                   o                   l                   h                   v                   d
+The 4th cluster:
+Final points number in this cluster: 1004(     13.53%)
+     class    number
+         p         7
+         e       997
+Centroid:
+                   e                   x                   s                   g                   f                   n                   f                   w                   b                   p                   t                   s                   s                   w                   w                   p                   w                   o                   e                   k                   s                   g
+
+The best 6 clusters: (SSE =  41739.000	BSS =    330.000 ) 
+The 0th cluster:
+Final points number in this cluster: 883(     11.90%)
+     class    number
+         p       655
+         e       228
+Centroid:
+                   p                   x                   s                   w                   t                   n                   f                   c                   n                   w                   e                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   u
+The 1th cluster:
+Final points number in this cluster: 1216(     16.38%)
+     class    number
+         p      1214
+         e         2
+Centroid:
+                   p                   f                   y                   g                   f                   f                   f                   c                   b                   p                   e                   k                   k                   b                   b                   p                   w                   o                   l                   h                   v                   d
+The 2th cluster:
+Final points number in this cluster: 1006(     13.55%)
+     class    number
+         p        52
+         e       954
+Centroid:
+                   e                   x                   y                   y                   t                   a                   f                   c                   b                   w                   e                   s                   s                   w                   w                   p                   w                   o                   p                   k                   s                   g
+The 3th cluster:
+Final points number in this cluster: 1618(     21.80%)
+     class    number
+         p      1596
+         e        22
+Centroid:
+                   p                   k                   s                   e                   f                   s                   f                   c                   n                   b                   t                   k                   s                   w                   p                   p                   w                   o                   e                   w                   v                   l
+The 4th cluster:
+Final points number in this cluster: 1706(     22.98%)
+     class    number
+         p         0
+         e      1706
+Centroid:
+                   e                   x                   f                   n                   t                   n                   f                   c                   b                   n                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+The 5th cluster:
+Final points number in this cluster: 994(     13.39%)
+     class    number
+         p        55
+         e       939
+Centroid:
+                   e                   x                   s                   g                   f                   n                   f                   w                   b                   p                   t                   s                   s                   w                   w                   p                   w                   o                   e                   k                   s                   g
+
+The best 7 clusters: (SSE =  40830.000	BSS =    462.000 ) 
+The 0th cluster:
+Final points number in this cluster: 1246(     16.79%)
+     class    number
+         p      1231
+         e        15
+Centroid:
+                   p                   f                   y                   g                   f                   f                   f                   c                   b                   p                   e                   k                   k                   b                   b                   p                   w                   o                   l                   h                   y                   d
+The 1th cluster:
+Final points number in this cluster: 2284(     30.77%)
+     class    number
+         p       272
+         e      2012
+Centroid:
+                   e                   f                   y                   n                   t                   n                   f                   c                   b                   w                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+The 2th cluster:
+Final points number in this cluster: 1810(     24.38%)
+     class    number
+         p      1806
+         e         4
+Centroid:
+                   p                   x                   s                   n                   f                   f                   f                   c                   n                   b                   t                   s                   s                   w                   w                   p                   w                   o                   e                   w                   v                   d
+The 3th cluster:
+Final points number in this cluster: 519(      6.99%)
+     class    number
+         p        65
+         e       454
+Centroid:
+                   e                   f                   s                   w                   f                   n                   f                   w                   b                   k                   t                   s                   s                   w                   w                   p                   w                   o                   e                   n                   s                   g
+The 4th cluster:
+Final points number in this cluster: 539(      7.26%)
+     class    number
+         p        57
+         e       482
+Centroid:
+                   e                   x                   f                   g                   f                   n                   f                   w                   b                   w                   e                   s                   s                   w                   w                   p                   w                   t                   p                   w                   s                   g
+The 5th cluster:
+Final points number in this cluster: 359(      4.84%)
+     class    number
+         p        45
+         e       314
+Centroid:
+                   e                   x                   s                   n                   f                   n                   f                   w                   b                   h                   t                   s                   s                   w                   w                   p                   w                   o                   e                   n                   s                   g
+The 6th cluster:
+Final points number in this cluster: 666(      8.97%)
+     class    number
+         p        96
+         e       570
+Centroid:
+                   e                   x                   y                   y                   t                   a                   f                   c                   b                   n                   e                   s                   s                   w                   w                   p                   w                   o                   p                   k                   s                   g
+
+The best 8 clusters: (SSE =  38851.000	BSS =    616.000 ) 
+The 0th cluster:
+Final points number in this cluster: 1209(     16.29%)
+     class    number
+         p      1209
+         e         0
+Centroid:
+                   p                   f                   y                   g                   f                   f                   f                   c                   b                   p                   e                   k                   k                   b                   b                   p                   w                   o                   l                   h                   v                   d
+The 1th cluster:
+Final points number in this cluster: 984(     13.26%)
+     class    number
+         p       973
+         e        11
+Centroid:
+                   p                   k                   s                   e                   f                   y                   f                   c                   n                   b                   t                   s                   s                   w                   p                   p                   w                   o                   e                   w                   v                   p
+The 2th cluster:
+Final points number in this cluster: 1208(     16.27%)
+     class    number
+         p       125
+         e      1083
+Centroid:
+                   e                   f                   y                   n                   t                   n                   f                   c                   b                   n                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+The 3th cluster:
+Final points number in this cluster: 1012(     13.63%)
+     class    number
+         p        60
+         e       952
+Centroid:
+                   e                   x                   s                   w                   f                   n                   f                   w                   b                   p                   t                   s                   s                   w                   w                   p                   w                   o                   e                   k                   s                   g
+The 4th cluster:
+Final points number in this cluster: 990(     13.34%)
+     class    number
+         p       291
+         e       699
+Centroid:
+                   e                   x                   f                   g                   t                   n                   f                   c                   b                   p                   t                   s                   s                   w                   w                   p                   w                   o                   p                   n                   v                   d
+The 5th cluster:
+Final points number in this cluster: 967(     13.03%)
+     class    number
+         p       258
+         e       709
+Centroid:
+                   e                   x                   s                   w                   t                   l                   f                   c                   b                   w                   e                   s                   s                   w                   w                   p                   w                   o                   p                   n                   s                   g
+The 6th cluster:
+Final points number in this cluster: 395(      5.32%)
+     class    number
+         p         0
+         e       395
+Centroid:
+                   e                   x                   f                   n                   t                   n                   f                   c                   b                   u                   t                   s                   s                   g                   g                   p                   w                   o                   p                   k                   y                   d
+The 7th cluster:
+Final points number in this cluster: 658(      8.86%)
+     class    number
+         p       656
+         e         2
+Centroid:
+                   p                   x                   y                   n                   f                   s                   f                   c                   n                   b                   t                   k                   s                   w                   w                   p                   w                   o                   e                   w                   v                   d
+
+The best 9 clusters: (SSE =  37330.000	BSS =    792.000 ) 
+The 0th cluster:
+Final points number in this cluster: 1226(     16.52%)
+     class    number
+         p      1221
+         e         5
+Centroid:
+                   p                   x                   y                   g                   f                   f                   f                   c                   b                   p                   e                   k                   k                   b                   b                   p                   w                   o                   l                   h                   y                   d
+The 1th cluster:
+Final points number in this cluster: 319(      4.30%)
+     class    number
+         p        28
+         e       291
+Centroid:
+                   e                   x                   f                   g                   f                   n                   f                   w                   b                   p                   e                   s                   s                   w                   w                   p                   w                   t                   p                   w                   s                   g
+The 2th cluster:
+Final points number in this cluster: 996(     13.42%)
+     class    number
+         p       968
+         e        28
+Centroid:
+                   p                   f                   s                   n                   f                   f                   f                   c                   n                   b                   t                   k                   s                   w                   p                   p                   w                   o                   e                   w                   v                   l
+The 3th cluster:
+Final points number in this cluster: 740(      9.97%)
+     class    number
+         p        18
+         e       722
+Centroid:
+                   e                   x                   f                   g                   f                   n                   f                   w                   b                   p                   t                   f                   s                   w                   w                   p                   w                   o                   e                   k                   a                   g
+The 4th cluster:
+Final points number in this cluster: 1227(     16.53%)
+     class    number
+         p        61
+         e      1166
+Centroid:
+                   e                   f                   f                   e                   t                   n                   f                   c                   b                   n                   t                   s                   s                   w                   w                   p                   w                   o                   p                   k                   v                   d
+The 5th cluster:
+Final points number in this cluster: 585(      7.88%)
+     class    number
+         p       101
+         e       484
+Centroid:
+                   e                   b                   y                   y                   t                   a                   f                   c                   b                   w                   e                   s                   s                   w                   w                   p                   w                   o                   p                   n                   s                   g
+The 6th cluster:
+Final points number in this cluster: 912(     12.29%)
+     class    number
+         p       479
+         e       433
+Centroid:
+                   p                   x                   s                   w                   t                   l                   f                   c                   b                   n                   e                   s                   s                   w                   w                   p                   w                   o                   p                   k                   s                   g
+The 7th cluster:
+Final points number in this cluster: 679(      9.15%)
+     class    number
+         p       679
+         e         0
+Centroid:
+                   p                   f                   y                   e                   f                   s                   f                   c                   n                   b                   t                   s                   k                   p                   w                   p                   w                   o                   e                   w                   v                   p
+The 8th cluster:
+Final points number in this cluster: 739(      9.96%)
+     class    number
+         p        17
+         e       722
+Centroid:
+                   e                   f                   y                   g                   t                   n                   f                   c                   b                   p                   t                   s                   s                   w                   g                   p                   w                   o                   p                   n                   y                   d
+
