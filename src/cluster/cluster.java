@@ -18,7 +18,7 @@ public class cluster {
     public int nNum;
     public double[] groupTotal;
     public boolean isUpdated;
-    private HashMap<Double, Integer> hm;
+    public HashMap<Double, Integer> hm;
 
     public cluster(instance c){
         this.center = new instance(c.inst.length);
